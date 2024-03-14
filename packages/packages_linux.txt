@@ -1,0 +1,15 @@
+Flask
+Flask-Cors
+Flask-SocketIO
+Pillow
+pytest
+pytest-check
+pytest-sugar
+selenium
+requests
+pyOpenSSL
+allure-pytest
+allure-combine
+python-socketio
+psutil
+pyvirtualdisplay
